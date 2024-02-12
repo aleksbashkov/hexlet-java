@@ -1,3 +1,2 @@
 # ignore *.class
-*.class
-
+/io/hexlet/*.class
